@@ -1,0 +1,17 @@
+{
+  "name": "hello_package",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/devthalal/hello_package.git",
+    "ssh": "git@github.com:devthalal/hello_package.git",
+    "branch": "block_hello_package"
+  },
+  "dependencies": {},
+  "blockId": "DmaN8S_tIXDwMRzLO078q",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
